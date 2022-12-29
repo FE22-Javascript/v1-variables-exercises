@@ -25,8 +25,6 @@ var name = 'Greta Thunberg';
 
 **4.** Hur tar man reda på vad en variabel har för datatyp?
 
-### Block 
-
 **5** Vilken av följande tecken visar ett ```kodblock```?
 
 ```javascript
@@ -38,7 +36,9 @@ var name = 'Greta Thunberg';
 **6** Gör följande:
 
 **6.1** Skapa variabeln my_num och tilldela den ett nummer.
+
 **6.2** Skapa variabeln my_bool och tilldela den en boolean.
+
 **6.3** Skapa variabeln my_str och tilldela den en sträng.
 
 **7** Vad kommer följande villkor att skriva ut?

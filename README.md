@@ -54,3 +54,13 @@ var outcome = "else block";
 
 }
 ```
+
+**8** Vad kommer följande villkor att skriva ut?
+
+```javascript 
+if (10 > 5) {
+
+var outcome = "if block";
+
+}
+```

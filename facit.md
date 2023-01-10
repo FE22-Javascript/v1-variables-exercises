@@ -5,7 +5,7 @@ variabler, datatyper och villkor
 **1** Vilka datatyper finns det i JS? Svara i form av en array.
 
 ```javascript
-let datatypes = []
+let datatypes = ['boolean', 'string', 'object', 'array', 'undefined', 'number' ]
 ```
 
 **2** Är följande if sats *true* eller *false*?
@@ -15,6 +15,7 @@ let a = 1;
 let b = '1';
 if(a == b) // true or false
 ```
+Svar: true
 
 **3** Vad är den *tekniska* skillnaden ( förutom var, let ) på dessa två deklarationer?
 
@@ -22,8 +23,11 @@ if(a == b) // true or false
 let name = 'Greta Thunberg';
 var name = 'Greta Thunberg';
 ```
+Svar: var är funktions-scopead, medan let är block-scopead
 
 **4.** Hur tar man reda på vad en variabel har för datatyp?
+
+Svar: typeof
 
 **5** Vilken av följande tecken visar ett ```kodblock```?
 
